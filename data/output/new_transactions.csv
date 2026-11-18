@@ -1,0 +1,2 @@
+account_number,ref_no,txn_date,txn_time,description,debit,credit,balance,account_type,source_file,raw_txn_date,raw_txn_time
+AC100000004, REF900004,2026-08-01,20:10:10,EMI HOME LOAN,17500.0,,356034.32,SAVINGS,batch_2026-08-04_late_correction.csv,01-08-2026,20:10:10
